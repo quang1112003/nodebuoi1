@@ -1,0 +1,17 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "tbd",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  
+    "dependencies": {
+      "color":"latest",
+      "underscore":"latest"
+    },
+
+  "author": "",
+  "license": "ISC"
+}
